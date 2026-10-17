@@ -49,8 +49,8 @@ Servicio backend construido con **Express + TypeScript** que centraliza la infor
 ### 1. Clonar e instalar dependencias
 
 ```bash
-git clone https://github.com/JhoamSebastianMunoz/microservice_backend_areas_clients.git
-cd microservice_backend_areas_clients
+git clone https://github.com/JhoamSebastianMunoz/microservice-backend-area-client.git
+cd microservice-backend-area-client
 npm install
 ```
 
