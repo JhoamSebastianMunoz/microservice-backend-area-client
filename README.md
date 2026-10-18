@@ -49,8 +49,8 @@ Servicio backend construido con **Express + TypeScript** que centraliza la infor
 ### 1. Clonar e instalar dependencias
 
 ```bash
-git clone https://github.com/JhoamSebastianMunoz/microservice-backend-area-client.git
-cd microservice-backend-area-client
+git clone https://github.com/JhoamSebastianMunoz/tatsoft-area-service.git
+cd tatsoft-area-service
 npm install
 ```
 
